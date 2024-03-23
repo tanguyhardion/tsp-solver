@@ -2,8 +2,8 @@
 
 ## Description
 
-Cette application, codée en Java, a pour but de résoudre le problème du voyageur de commerce *(TSP problem)* grâce à divers heuristiques, telles que la recherche par plus proche voisin ou la recherche locale (premier d'abord). 
+This application, coded in Java, aims to solve the TSP problem using various heuristics, such as nearest neighbor or local search. 
 
-## Contribution
+## Contribute
 
-N'hésitez pas à contribuer à ce projet en proposant des améliorations, de nouveaux algorithmes, etc.
+Feel free to contribute to this project by suggesting improvements, new algorithms, etc.
